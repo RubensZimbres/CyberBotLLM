@@ -34,3 +34,4 @@ And you are good to go:
 python3 main.py
 ```
 
+![GEMINI]([http://url/to/img.png](https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png)https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png)
