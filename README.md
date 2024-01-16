@@ -11,8 +11,7 @@ This chatbot is part of the OWASP educational initiative in Cybersecurity, is ba
 ## Features
 
 It uses <b>Langchain</b> to generate a conversation flow with memory, and also a <b>RAG (Retrieval Augmented Generation)</b> document that can be customized according to your educational goals.  
-Currently, RAG contains a list of fictitious usernames and passwords. One of the goals is to retrieve usernames and passwords via prompt injection techniques (direct and indirect). You can also 
-poison the RAG document to......
+Currently, RAG contains a list of fictitious usernames and passwords. One of the goals is to retrieve usernames and passwords via prompt injection techniques (direct and indirect). You can also poison the RAG document to force a Sensitive Information Disclosure.
 
 ## How to use it
 
