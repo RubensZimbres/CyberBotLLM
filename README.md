@@ -33,5 +33,6 @@ And you are good to go:
 ```sh
 python3 main.py
 ```
-
-<img src="[your_relative_path_here](https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png)https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png)https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png)https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png">
+<p align="center">
+<img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png">
+</p>
