@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_.png">
 </p>
-  
+    
 ## _Your Google Cloud Cybersecurity Expert, powered by Gemini Generative AI_
   
 This chatbot is part of my persoanl effort for the OWASP educational initiative in Cybersecurity. It is based on Google technology, and uses 4 different approaches:
@@ -39,4 +39,9 @@ python3 main.py
 ```
 <p align="center">
 <img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini_0.png">
+</p>  
+
+<p align="center">
+<img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini2.png">
 </p>
+
