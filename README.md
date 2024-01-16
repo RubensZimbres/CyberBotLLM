@@ -22,8 +22,8 @@ Currently, RAG contains a list of fictitious usernames and passwords. One of the
 In order to use/replicate this chatbot, `git clone` this repository. Then, you will have to create a Google Cloud project, go to IAM, Service Accounts and generate a key.json.  
   
 This key can be used directly as an environment variable by using `os.environ['GOOGLE_APPLICATIONS_CREDENTIALS']='key.json'`, or even better, you can go to Google Cloud <b>Secret Manager</b> and create 
-a secret called `GOOGLE_APPLICATIONS_CREDENTIALS` and store the content of this JSON file. Main,py file is set up to be used with the Secret Manager in VSCode (Cloud Code
-extension). 
+a secret called `GOOGLE_APPLICATIONS_CREDENTIALS` and store the content of this JSON file. 
+Main.py file is set up to be used with the Secret Manager in VSCode (Cloud Code extension). 
   
 Then, edit your project name and number in <b>main.py</b>. After that, run in command line:  
   
