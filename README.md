@@ -6,7 +6,7 @@
     
 ## _Your Google Cloud Cybersecurity Expert, powered by Gemini Generative AI_
   
-This chatbot is part of my persoanl effort for the OWASP educational initiative in Cybersecurity. It is based on Google technology, and uses 4 different approaches:
+This chatbot is part of my personal effort for the OWASP educational initiative in Cybersecurity. It is based on Google technology, and uses 4 different approaches:
 - Regular conversation
 - Cybersecurity Expert
 - Hardened Cybersecurity Expert
@@ -44,4 +44,5 @@ python3 main.py
 <p align="center">
 <img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini2.png">
 </p>
-
+  
+- Special thanks for Harish S.G., as this chatbot is based on the DamnVulnerableLLMBot.
