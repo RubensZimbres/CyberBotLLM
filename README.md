@@ -45,4 +45,4 @@ python3 main.py
 <img src="https://github.com/RubensZimbres/CyberBotLLM/blob/main/pictures/gemini2.png">
 </p>
   
-- Special thanks for Harish S.G., as this chatbot is based on the DamnVulnerableLLMBot.
+- Special thanks for Harish S.G., as this chatbot is based on the DamnVulnerableLLMBot (https://github.com/harishsg993010/DamnVulnerableLLMProject).
